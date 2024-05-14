@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1715715972 source:c:\users\saleh\desktop\pr_8bit numbers representation_two's complement\source\main.cpp
+	<iostream>
+	<IntegerRepresentationSystem.h>
+
+1715718301 c:\users\saleh\desktop\pr_8bit numbers representation_two's complement\include\integerrepresentationsystem.h
+	<cinttypes>
+	<iostream>
+	<cmath>
+	<algorithm>
+	<iterator>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1715452397 source:c:\users\saleh\desktop\sali workspace\pr_u8bit numbers representation\source\main.cpp
+	<iostream>
+	<IntegerRepresentationSystem.h>
+
+1715452163 c:\users\saleh\desktop\sali workspace\pr_u8bit numbers representation\include\integerrepresentationsystem.h
+	<cinttypes>
+	<iostream>
+	<cmath>
+
